@@ -24,3 +24,6 @@ const themeSetter = (themeName) => {
     }
   }
 };
+
+// usage:
+themeSetter('dark)
